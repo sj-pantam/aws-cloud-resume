@@ -10,7 +10,7 @@ You can view the live project [here](https://www.sujanspage.com/).
 
 Below is the architecture I implemented for this project:
 
-![Architecture Diagram](#) <!-- You can link to your diagram image here -->
+![Architecture Diagram](https://github.com/sj-pantam/aws-cloud-resume/blob/main/aws-resume-Page-1.drawio.png) <!-- You can link to your diagram image here -->
 
 ### AWS Services Utilized
 
