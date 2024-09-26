@@ -4,6 +4,8 @@
 
 This repository showcases my solution to the Cloud Resume Challenge, a project designed to build and demonstrate core cloud computing skills.
 
+You can view the live project [here](https://www.sujanspage.com/).
+
 ## Architecture
 
 Below is the architecture I implemented for this project:
